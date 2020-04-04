@@ -28,4 +28,3 @@ notifications:
       - myemail@address.com
     on_success: always
     on_failure: always
-    
